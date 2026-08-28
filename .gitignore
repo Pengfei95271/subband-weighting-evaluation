@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.ipynb_checkpoints/
+.DS_Store
+figure*.png
+figure*.pdf
+*.log
+nohup.out
+cd_diagram_synthetic.png

@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: >-
+  Sub-band weighting in filter-bank CSP: evaluation code
+message: >-
+  If you use this code, please cite the accompanying paper.
+type: software
+authors:
+  - given-names: Pengfei
+    family-names: Cao
+    affiliation: Universitat Politècnica de Catalunya
+  - given-names: Tong
+    family-names: Liang
+    affiliation: Juntendo University
+  - given-names: Hao
+    family-names: Jia
+    affiliation: Nankai University
+  - given-names: Antoni
+    family-names: Grau Saldes
+    affiliation: Universitat Politècnica de Catalunya
+  - given-names: Yolanda
+    family-names: Bolea Monte
+    affiliation: Universitat Politècnica de Catalunya
+license: MIT
