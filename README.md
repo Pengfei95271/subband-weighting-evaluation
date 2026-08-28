@@ -155,7 +155,9 @@ confound the weighting with the change of estimator.
 
 ## Citation
 
-**[to add on acceptance]**
+Archived release: https://doi.org/10.5281/zenodo.22151205
+
+The accompanying paper reference will be added on acceptance.
 
 ## Licence
 

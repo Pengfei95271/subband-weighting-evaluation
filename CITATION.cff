@@ -21,3 +21,6 @@ authors:
     family-names: Bolea Monte
     affiliation: Universitat Politècnica de Catalunya
 license: MIT
+doi: 10.5281/zenodo.22151205
+repository-code: 'https://github.com/Pengfei95271/subband-weighting-evaluation'
+version: 1.0.0
